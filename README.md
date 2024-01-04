@@ -1,3 +1,5 @@
+![MovieVerse](header_image.png)
+
 # Project Title
 
 ## Overview
@@ -7,4 +9,3 @@
 ## Data Understanding and Analysis
 
 ## Conclusion
-
